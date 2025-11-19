@@ -21,6 +21,9 @@ body {
     position: sticky;
     top: 0;     
     z-index: 100;
+    background-color: lightblue;
+    margin-bottom: 2rem;
+    
     
 }
 
@@ -29,6 +32,7 @@ body {
     display: flex;
     gap: 2rem;
     justify-content: center;
+    color: white;
     
 }
 
